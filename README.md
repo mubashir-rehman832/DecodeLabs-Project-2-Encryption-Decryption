@@ -65,15 +65,18 @@ The decryption process shifts the characters back by the same number to recover 
 
 ### Main Interface
 
-![Main Interface](screenshots/main-interface.png)
+<img width="1350" height="612" alt="image" src="https://github.com/user-attachments/assets/d6bf19c3-fd91-4966-bf9a-c09b3dc6ed54" />
+
 
 ### Encryption Output
 
-![Encryption Output](screenshots/encryption-output.png)
+<img width="996" height="329" alt="image" src="https://github.com/user-attachments/assets/9c8abca5-051a-4eb6-be0f-2f2ca04f90eb" />
+
 
 ### Decryption Output
 
-![Decryption Output](screenshots/decryption-output.png)
+<img width="1162" height="271" alt="image" src="https://github.com/user-attachments/assets/0e7d6852-fb04-44e3-95c8-83dcffc0afb3" />
+
 
 ---
 
